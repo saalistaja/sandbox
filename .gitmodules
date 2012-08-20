@@ -1,0 +1,3 @@
+[submodule "iphone/www/src"]
+	path = iphone/www/src
+	url = git@github.com:saalistaja/urbo-mobile.git
