@@ -4,3 +4,9 @@
 [submodule "android/src"]
 	path = android/src
 	url = git@github.com:saalistaja/urbo-mobile
+[submodule "iphone/www/test"]
+	path = iphone/www/test
+	url = git@github.com:saalistaja/urbo-mobile
+[submodule "iphone/www/urbo-mobile"]
+	path = iphone/www/urbo-mobile
+	url = git@github.com:saalistaja/urbo-mobile
